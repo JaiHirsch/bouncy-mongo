@@ -1,4 +1,4 @@
 bouncy-mongo
 ============
 
-Example of how to use The Legion of the Bouncy Castle encryption with MongoDB
+A very simple JAVA example of how to encrypt/decrypt data in MongoDB
